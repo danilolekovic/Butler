@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-    <img src="https://i.imgur.com/kLdlHsN.jpg">
+    <img src="https://i.imgur.com/kLdlHsN.jpg" width=100 height=100>
 </p>
 <h1>Butler: an AI stock trading bot using WealthSimple's API.</h1>
 </div>
