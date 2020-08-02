@@ -1,6 +1,9 @@
-# Butler
-
-An AI stock trading bot using WealthSimple's API.
+<div align="center">
+<p>
+    <img src="https://i.imgur.com/kLdlHsN.jpg">
+</p>
+<h1>Butler: an AI stock trading bot using WealthSimple's API.</h1>
+</div>
 
 ## How It Works
 
