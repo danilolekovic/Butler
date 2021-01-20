@@ -74,6 +74,8 @@ class Butler():
 
         # figure out how to get security ID, this is $APPL
         securityID = "sec-s-76a7155242e8477880cbb43269235cb6"
+        
+        # need to figure out how to retrieve the top growing stocks to analyze
 
         data = {
             "security_id": securityID,
